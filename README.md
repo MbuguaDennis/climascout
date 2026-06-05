@@ -163,7 +163,7 @@ npm install
 ### Frontend
 
 ```bash
-cd frontend
+cd src
 npm install
 ```
 
