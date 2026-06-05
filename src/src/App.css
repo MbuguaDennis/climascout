@@ -1,0 +1,10 @@
+:root{
+  --purple-bg-color:#560270;
+  --font-family-Inter: "Inter", sans-serif;
+  --font-family-Roboto: "Roboto", sans-serif;
+}
+
+body{
+  background-color: var(--purple-bg-color);
+  font-family: var(--font-family-Inter);
+}

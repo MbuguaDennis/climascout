@@ -1,12 +1,17 @@
 import React from 'react'
-
+import Dashboard from './features/Dashboard/components/Dashboard';
+import "./App.css";
 
 const App = () => {
   return (
-    <div className='bg-red-200'>
-      <li className='text-red-700'>hello Dennis</li>
-      
+    
+    <>
+    <div >
+     <Dashboard />
     </div>
+    
+    
+    </>
   )
 }
 
