@@ -46,7 +46,7 @@ function Dashboard() {
             Turning weather into match-winning decisions...
           </span>
 
-          <p className="mt-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-extrabold leading-tight">
+          <p className="mt-4 text-4xl sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl font-extrabold leading-tight">
             Know the <span className="text-white">forecast</span>,
             <br />
             plan with confidence

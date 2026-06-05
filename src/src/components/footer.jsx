@@ -23,13 +23,13 @@ const Footer = () => {
             <h3 className="font-semibold text-white mb-3">Platform</h3>
 
             <div className="flex flex-col gap-2 text-sm">
-              <a href="/predictions" className="hover:text-[#FCC302] transition">
+              <a href="#" className="hover:text-[#FCC302] transition">
                 Predictions
               </a>
-              <a href="/matches" className="hover:text-[#FCC302] transition">
+              <a href="#" className="hover:text-[#FCC302] transition">
                 Matches
               </a>
-              <a href="/analytics" className="hover:text-[#FCC302] transition">
+              <a href="#" className="hover:text-[#FCC302] transition">
                 Analytics
               </a>
             </div>
@@ -40,13 +40,13 @@ const Footer = () => {
             <h3 className="font-semibold text-white mb-3">Resources</h3>
 
             <div className="flex flex-col gap-2 text-sm">
-              <a href="/privacy" className="hover:text-[#FCC302] transition">
+              <a href="#" className="hover:text-[#FCC302] transition">
                 Privacy Policy
               </a>
-              <a href="/terms" className="hover:text-[#FCC302] transition">
+              <a href="#" className="hover:text-[#FCC302] transition">
                 Terms of Service
               </a>
-              <a href="/contact" className="hover:text-[#FCC302] transition">
+              <a href="#" className="hover:text-[#FCC302] transition">
                 Contact Us
               </a>
             </div>
